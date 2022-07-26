@@ -17,7 +17,7 @@
 <a href="https://twitter.com/dk__is__here">
   <img align="left" alt="Dhaval Kansara | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/dhaval-kansara-dk">
+<a href="https://www.linkedin.com/in/dhaval-kansara-dk/">
   <img align="left" alt="Dhaval Kansara's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/11724588/dhaval-kansara">
