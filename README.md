@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DhavalRKansara&color=blue&style=flat)
 
-- 👩‍💻 Developer with more then 4 years experience
+- 👩‍💻 Developer with more than 4 years experience
 - 🔭 I’m currently working on Flutter and iOS
 - 💬 Ask me about Flutter
 - ⚡  Fun fact: Keep Learning
